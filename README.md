@@ -1,9 +1,20 @@
 # GCamps
 ---
-GCamps. Your app companion for upskilling innovators in fintech biosphere for accessible digital financial services.
-Brought to you by FinCash.
+A new Flutter project.
 
+## Getting Started
+---
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
 
 ---
-𝘋𝘶𝘦 𝘵𝘰 𝘵𝘩𝘦 𝘴𝘩𝘰𝘳𝘵 𝘱𝘦𝘳𝘪𝘰𝘥 𝘰𝘧 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘮𝘦𝘯𝘵, 𝘸𝘦 𝘴𝘵𝘪𝘭𝘭 𝘨𝘪𝘷𝘦 𝘰𝘶𝘳 100% 𝘴𝘬𝘪𝘭𝘭, 𝘵𝘩𝘢𝘯𝘬 𝘺𝘰𝘶.
-
+Due to the short period of development we were unable to finish the application, Despite of all of this
+we still gave our best, thank you.
